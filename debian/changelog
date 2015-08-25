@@ -1,5 +1,6 @@
 arduino-bt (1.0.0) uecide; urgency=low
 
-  * Initial Release.
+  * Initial Import
 
- -- Matt Jenkins <matt@majenko.co.uk>  Wed, 28 Jan 2015 23:15:43 +0000
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 25 Aug 2015 22:45:27 +0100
+

@@ -11,6 +11,7 @@ Package: arduino-bt
 Section: boards
 Architecture: all
 XBSC-Group: Arduino
+XBSC-Subgroup: Bluetooth
 Depends: arduino
 Description: Arduino BT w/ ATmega168
  The Arduino BT is an Arduino board with built-in
